@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"Herringway"
+	],
+	"description": "Oracle of ages & seasons",
+	"license": "proprietary",
+	"name": "oracles",
+	"dependencies": {
+		"replatform64:gameboy": "*"
+	}
+}
